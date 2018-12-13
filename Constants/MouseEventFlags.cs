@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
     [Flags]
     public enum MouseEventFlags : uint {
         LEFTDOWN = 0x0002,
