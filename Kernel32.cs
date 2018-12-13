@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Runtime.InteropServices;
-using Win = ToolKitRAT.WinApi.Structers;
+using Win = ToolKit.WinApi.Structers;
 
-namespace ToolKitRAT.WinApi {
+namespace ToolKit.WinApi {
     public class Kernel32 {
         /// <summary>
         /// Retrieves system timing information. On a multiprocessor system, the values returned are the sum of the designated times across all processors.
