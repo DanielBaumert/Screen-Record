@@ -2,11 +2,11 @@
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using ToolKitRAT.WinApi.Constants;
-using ToolKitRAT.WinApi.Delegates;
-using ToolKitRAT.WinApi.Structers;
+using ToolKit.WinApi.Constants;
+using ToolKit.WinApi.Delegates;
+using ToolKit.WinApi.Structers;
 
-namespace ToolKitRAT.WinApi {
+namespace ToolKit.WinApi {
     public class User32 {
 
         /// <summary>
