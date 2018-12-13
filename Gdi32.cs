@@ -3,7 +3,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace ToolKitRAT.WinApi {
+namespace ToolKit.WinApi {
     public class Gdi32 {
         /// <summary>
         ///    Performs a bit-block transfer of the color data corresponding to a
