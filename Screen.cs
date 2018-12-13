@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Drawing;
 
 
-using ToolKitRAT.WinApi;
-using ToolKitRAT.WinApi.Constants;
-using ToolKitRAT.WinApi.Structers;
+using ToolKit.WinApi;
+using ToolKit.WinApi.Constants;
+using ToolKit.WinApi.Structers;
 using System.Threading;
 
-namespace ToolKitRAT {
+namespace ToolKit{
     public class Screen {
 
         private bool recording = false;
