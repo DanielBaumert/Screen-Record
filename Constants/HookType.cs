@@ -1,4 +1,4 @@
-﻿namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
     public enum HookType : int {
         WH_MSGFILTER = -1,
         WH_JOURNALRECORD = 0,
