@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
     public enum MouseData {
 
     }
