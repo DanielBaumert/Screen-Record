@@ -1,4 +1,4 @@
-﻿namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
     class Constants {
         public const int SRCCOPY = 0xCC0020;
 
