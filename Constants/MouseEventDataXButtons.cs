@@ -1,5 +1,5 @@
 ﻿
-namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
 
     public enum MouseEventDataXButtons : uint {
         /// <summary>
