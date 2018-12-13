@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace ToolKitRAT.WinApi.Structers {
+namespace ToolKit.WinApi.Structers {
     [StructLayout(LayoutKind.Sequential)]
     public struct RECT {
         public int Left { get; private set; }
