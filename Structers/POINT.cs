@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Runtime.InteropServices;
 
-namespace ToolKitRAT.WinApi.Structers {
+namespace ToolKit.WinApi.Structers {
     [StructLayout(LayoutKind.Sequential)]
     public struct POINT {
 
