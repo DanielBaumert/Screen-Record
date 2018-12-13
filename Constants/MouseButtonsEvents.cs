@@ -1,5 +1,5 @@
 ﻿
-namespace ToolKitRAT.WinApi.Constants {
+namespace ToolKit.WinApi.Constants {
     public enum MouseButtonsEvents {
         MOVE = 0x200,
         LDOWN = 0x201,
