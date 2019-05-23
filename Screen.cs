@@ -72,6 +72,8 @@ namespace ToolKit{
 
 
         //Old and slow
+        //For mor infos - https://ourcodeworld.com/articles/read/195/capturing-screenshots-of-different-ways-with-c-and-winforms - 
+        //copied very good :D
         //public unsafe static Image CaptureWindow(IntPtr handle) {
         //    // get te hDC of the target window
         //    IntPtr hdcSrc = User32.GetWindowDC(handle);
